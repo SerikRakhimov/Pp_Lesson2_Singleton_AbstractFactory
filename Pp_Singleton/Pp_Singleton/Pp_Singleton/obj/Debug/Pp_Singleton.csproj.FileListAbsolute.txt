@@ -1,0 +1,7 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Singleton\Pp_Singleton\Pp_Singleton\bin\Debug\Pp_Singleton.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Singleton\Pp_Singleton\Pp_Singleton\bin\Debug\Pp_Singleton.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Singleton\Pp_Singleton\Pp_Singleton\bin\Debug\Pp_Singleton.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Singleton\Pp_Singleton\Pp_Singleton\obj\Debug\Pp_Singleton.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Singleton\Pp_Singleton\Pp_Singleton\obj\Debug\Pp_Singleton.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Singleton\Pp_Singleton\Pp_Singleton\obj\Debug\Pp_Singleton.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_Singleton\Pp_Singleton\Pp_Singleton\obj\Debug\Pp_Singleton.pdb

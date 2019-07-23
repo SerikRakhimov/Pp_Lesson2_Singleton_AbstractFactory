@@ -1,0 +1,7 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_AbstactFactory\Pp_AbstactFactory\Pp_AbstactFactory\bin\Debug\Pp_AbstactFactory.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_AbstactFactory\Pp_AbstactFactory\Pp_AbstactFactory\bin\Debug\Pp_AbstactFactory.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_AbstactFactory\Pp_AbstactFactory\Pp_AbstactFactory\bin\Debug\Pp_AbstactFactory.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_AbstactFactory\Pp_AbstactFactory\Pp_AbstactFactory\obj\Debug\Pp_AbstactFactory.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_AbstactFactory\Pp_AbstactFactory\Pp_AbstactFactory\obj\Debug\Pp_AbstactFactory.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_AbstactFactory\Pp_AbstactFactory\Pp_AbstactFactory\obj\Debug\Pp_AbstactFactory.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Pp\Pp_AbstactFactory\Pp_AbstactFactory\Pp_AbstactFactory\obj\Debug\Pp_AbstactFactory.pdb
